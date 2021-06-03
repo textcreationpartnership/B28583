@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quakers are inchanters and dangerous seducers appearing in their inchantment of one Mary White at Wickham-skeyth in Suffolk, 1655.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28583</idno><idno type="EEBO-CITATION">11247688</idno>
+  <idno type="VID">204994</idno>
+  <idno type="EEBO-PROQUEST">2240899603</idno>
+  
+            <idno type="STC">Wing Q13</idno>
+            <idno type="OCLC">11247688</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204994)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1449:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quakers are inchanters and dangerous seducers appearing in their inchantment of one Mary White at Wickham-skeyth in Suffolk, 1655.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Edward Dod and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">White, Mary, 17th cent.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204994:1"/>
+            <p>QUAKERS ARE INCHANTERS, AND DANGEROVS SEDUCERS.</p>
+            <p>
+               <hi>Appearing in their Inchantment of ONE</hi> Mary White <hi>AT</hi> Wickham-skeyth <hi>in</hi> Suffolk, 1655.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>Edward Dod,</hi> and are to be sold at his Shop at the <hi>Gun</hi> in <hi>Ivie. laine,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204994:2"/>
+            <pb n="3" facs="tcp:204994:2"/>
+            <head>Quakers discovered to be Inchanters, IN <hi>A short but true Narrative (part attested upon Oath) of severall passages, hapnings in the Towns of</hi> Wickhamskeyth <hi>and</hi> Mandlesham <hi>in the County of</hi> Suffolk June 1655. <hi>Collected by a friend to the peace of the Church and Commonwealth, and set out partly to make a more clear discovery (then as yet hath been made) that those who are cal<g ref="char:EOLhyphen"/>led Quakers are in truth Inchanters; partly to undeceive the people by them grosly sedused; and partly to prevent further misreports (some being already in print) which may prejudice the truth.</hi>
+            </head>
+            <p>
+               <hi>RIchard Hobberthorne</hi> called a Quaker, or more justly an Inchan<g ref="char:EOLhyphen"/>ter, late a Prisoner in <hi>Norwich</hi> Castle, came to <hi>Wickhamskeyth</hi> the 1. of <hi>June,</hi> where at a meeting upon a disputation had with a Minister (on purpose to undeceive the people whom he had there wickedly misled, the sayd <hi>Hobberthorne</hi> in the presence of many of his followers and others) did affirm that he had received Re<g ref="char:EOLhyphen"/>velations, and Visions imediatly from God, in such manner as <hi>Samuel</hi> and <hi>Paul</hi> had, and that he was sent to call such into the Light who were in Darknesse; he did then deny the Resurrection of the Body, and the Trinity or three Persons in the Godhead; since that meeting he hath dispersed many Books in maintenance of some of those Opinions, and other horrid Errors, set out by himselfe and under his name, and notwithstanding the sayd <hi>Hobberthorn</hi> at the said meeting, was admonished to depart the said town, and not to returne againe, yet neverthelesse the eight day of <hi>June</hi> he came again to the house of <hi>Richard White,</hi> accompa<g ref="char:EOLhyphen"/>nied with <hi>Francis Howgill</hi> and <hi>Edward Burroughs</hi> called Quakers, newly (as was reported) come from <hi>London,</hi> at which meet<g ref="char:EOLhyphen"/>ing here was a great number of people, from severall parts of <hi>Norfolk</hi> and <hi>Suffolk;</hi> amongst others from <hi>Norfolk</hi> there was one <hi>Mary White,</hi> the Wife of <hi>William White</hi> of Starson in the County of <hi>Norfolk,</hi> who soon after became distracted, or rather inchan<g ref="char:EOLhyphen"/>ted, and so died, as may appear by the severall informations fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:204994:3"/>
+               <head>The Information of <hi>Bartholomew Lenald</hi> of Starson in the County of <hi>Norfolk</hi> Brick-layer, taken upon Oath the <hi>5.</hi> day of <hi>July 1655.</hi> before <hi>Edmund Harvey</hi> Esq;</head>
+               <p>THis informant saith, that he came on Saturday before White<g ref="char:EOLhyphen"/>sunday (upon the invitation of <hi>Richard White</hi> of Wickham<g ref="char:EOLhyphen"/>skeyth) with <hi>William While</hi> and <hi>Mary</hi> his Wife to the house of the said <hi>Richard,</hi> where the said <hi>Mary</hi> continued about the space of ten dayes. In the former part of which time, <hi>Alice</hi> the Wife of the said <hi>Richard</hi> did read to her the said <hi>Mary</hi> divers seducing Books (as he conceiveth) and full of Errors set out by <hi>Richard Hobberthorne</hi> and others, who are commonly called Quakers, she the said <hi>Mary</hi> at first would not give ear or listen to them, but on the Friday after Whitsunday there came the said <hi>Hobberthorne</hi> with two other called Quakers to the house of the said <hi>Richard White</hi> aforesaid, who did then and there speak to a great number of people, and on Sunday next following the said Quakers met at the house of <hi>Robert Duncon</hi> of Mendlesham with a number of people, whither they the said <hi>William</hi> and <hi>Mary</hi> his Wife did go, where they heard the Quakers speak in such a manner as the said <hi>Mary</hi> wept (as this informant was told) and was much trou<g ref="char:EOLhyphen"/>bled, And he further saith, that on Munday night following, she the said <hi>Mary White</hi> fell ill, and distracted or possessed with an e<g ref="char:EOLhyphen"/>vill spirit (as he conceived) which did appear to her, as she the said <hi>Mary</hi> confessed unto the said <hi>Alice,</hi> and the said <hi>Alice,</hi> told this informant, that the said <hi>Mary</hi> told her the said <hi>Alice</hi> that when the spirit departed from her, she desired the spirit not to sting her by the ey although it did her flesh, and it went out at the window (as she said.) And this informant also saith, that on Twes<g ref="char:EOLhyphen"/>day morning she the said <hi>Mary</hi> continued ill, the said <hi>Alice</hi> came to her and read in a Book set out by those whom they call'd Qua<g ref="char:EOLhyphen"/>kers; and this informant further saith, that on Thursday morn<g ref="char:EOLhyphen"/>ing the said <hi>Mary</hi> told this informant, that if she had got the foure spels, she had had it; but what she meant thereby, he doth not know, and he also saith, that he verily believeth, that upon the hearing of the said Quakers speak, and hearing their Books read by the said <hi>Alice,</hi> the said <hi>Mary</hi> became altogether distracted or inchanted, and so continued about the space of ten dayes, in
+<pb n="5" facs="tcp:204994:3"/>which time the said <hi>Mary</hi> had such violent fits and distenspers as that foure or five men could hardly hold her in her bed, and in her said fit she roared and in a raging manner called those about her Devills, saying, stand away you Devills, And she further said in her fits when the said <hi>Alice</hi> was with her (have I come unto you for this?) telling the said <hi>Alice</hi> and others that she was in<g ref="char:EOLhyphen"/>chanted and bewitched by the seducers, And this informant fur<g ref="char:EOLhyphen"/>ther saith, that after the said <hi>Mary</hi> came to her own house, she con<g ref="char:EOLhyphen"/>tinued distemperd and cried out many times, and said, she was in<g ref="char:EOLhyphen"/>chanted and seduced, and that they were seducers of Israel, these and such like wordes she used so long as she was able to speak, un<g ref="char:EOLhyphen"/>till her death.</p>
+            </div>
+            <div type="part">
+               <head>The Information of <hi>Susan Green</hi> of <hi>Wickham-skeyth Spinster,</hi> taken upon Oath the <hi>27.</hi> of <hi>June 1655.</hi> before <hi>Edmund Harvey</hi> Esq;</head>
+               <p>THis Informant saith, That <hi>William White</hi> of <hi>Starson</hi> in the County of <hi>Norfolk</hi> and <hi>Mary</hi> his Wife, came unto the House of <hi>Richard White,</hi> her Master, in <hi>Wickham-skeyth,</hi> in the County of <hi>Suffolk</hi> on the Saturday before <hi>Whitesunday,</hi> who at their com<g ref="char:EOLhyphen"/>ming (as this Informant believeth) were very well, and soon af<g ref="char:EOLhyphen"/>ter their comming, the said <hi>Richard White</hi> and <hi>Alice</hi> his wife, did discourse with them the said <hi>William</hi> and <hi>Mary,</hi> concerning the Quakers, and read diverse seducing and erronious Books to her the said <hi>Mary,</hi> which were set out by them, whom they call Qua<g ref="char:EOLhyphen"/>kers, the said <hi>Mary</hi> at the first refused to hear them; but on the Fri<g ref="char:EOLhyphen"/>day after <hi>Whitesunday</hi> there came to the said <hi>Richard Whites</hi> house <hi>Richard Hobberthorn</hi> and two other men (unknown to this In<g ref="char:EOLhyphen"/>formant) who were called Quakers, who did then and there speak to the said <hi>Mary,</hi> and a great number of people there pre<g ref="char:EOLhyphen"/>sent. And that the Sunday following they the said Quakers met at the house of <hi>Robert Duncon</hi> in <hi>Mendlesham</hi> with a great number of people, and that the said <hi>William</hi> and <hi>Mary</hi> his wife went to the said meeting, where they the said <hi>William</hi> and <hi>Mary</hi> (as they told this Informant) heard the said Quakers speak, and when the said <hi>Mary</hi> came back to the said <hi>Richard Whites</hi> house, she see<g ref="char:EOLhyphen"/>med (to this Informant) to be much troubled, and so continued all Munday following; On which day, she spent much time in
+<pb n="6" facs="tcp:204994:4"/>Reading a Book set out by the Quakers, which (as this Infor<g ref="char:EOLhyphen"/>mant believeth) added much to her trouble and distractions. And this Informant, further saith, that <hi>Alice</hi> the wife of <hi>Richard White</hi> did declare to this Informant, that <hi>Mary</hi> the wife of <hi>William White</hi> confessed to her the said <hi>Alice,</hi> that on Tuesday morning the De<g ref="char:EOLhyphen"/>vill went out of her, and that the Spirit of God had possessed her, which said spirit of the Devill seemed to her the said <hi>Mary</hi> (as she confessed) to be like to a Knat or a Flie, which stung her by the ey, and afterwards did flie out at the Window. And she also confes<g ref="char:EOLhyphen"/>sed that she did see Christ crucified, and that she was among the Virgins. And this Informant saith, that on Wednesday, she the said <hi>Mary</hi> (seemed to this Informant) to grow worse and worse in her distractions by her staring in such affrightfull manner, that (as this Informant believeth) she was possessed with a Devill, and that she the said <hi>Mary</hi> on Thursday morning seemed (to this In<g ref="char:EOLhyphen"/>formant) to be worse then formerly, being possessed with strange fits and distempers; In one of the said fits, she this Informant did perceive something to rise up in her body, with such violence, as that the said <hi>Mary</hi> sometimes roared, and at other times hallowed, and sometime barked like a Dog, and often times in the same day did attempt to have drowned her self, but being prevented and hindred, she did get a Knife (as this Informant believeth) to have killed her self; and that in her fits she was of such force, that three or four could scarce keep her in her B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; and that after her said fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s &amp; distractions were over, the said <hi>Mary</hi> would lie very still and quiet by the space of four or five houres or thereabouts. And by the space of half an houre or thereabouts she would speak in a raging and strange manner, Crying out to the said <hi>Alice, Stand away you Devill, you Devill, you seducer of Israel;</hi> And the said <hi>Mary</hi> continued in these distractions and distempers, about the space of ten dayes, and then dyed in that distracted condition.</p>
+            </div>
+            <div type="part">
+               <head>The Information of <hi>William White</hi> of <hi>Starson</hi> in the County of <hi>Nor<g ref="char:EOLhyphen"/>folk</hi> Bricklayer, taken before <hi>Edmund Harvey</hi> Esq; the <hi>14.</hi> of <hi>June 1655.</hi> &amp;c.</head>
+               <p>THis Informant saith, that on Saturday seven night, last past, <hi>Richard White</hi> his Brother, living in <hi>Wickhamskeyth,</hi> in the County of <hi>Suffolk,</hi> sent for this Informant, and <hi>Mary</hi> his wife,
+<pb n="7" facs="tcp:204994:4"/>to come to <hi>Wickhamskeyth,</hi> &amp; that on the same day this Informant and his wife came to his said Brothers house, where they heard many Books read, set out (as he was told) by those whom they call Quakers, &amp; he believeth in his absence (for he returned home on the Munday and lest his wife behind him) his wife was there so seduced, as on Tuesday the 12. of this instant June, she fell in<g ref="char:EOLhyphen"/>to a distraction, and thereupon this Informant was sent for to come to his said wife, and according as he had heard, he found her distracted, and she so continueth. And this Informant fur<g ref="char:EOLhyphen"/>ther saith, that this present day being the 14. of <hi>June,</hi> she did se<g ref="char:EOLhyphen"/>verall times attempt to have drowned her self, and had got a Knife (as this Informant believeth to have killed her self. And this Informant further saith, that the distraction came to her (as his said wise told this Informant) by foure Spels, but what she meant by those Spels, he cannot tell. But this Informant saith, that in her Fits, he hath observed that something within her bo<g ref="char:EOLhyphen"/>dy did ru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p and down, and in her Fits somtime she roared like a Bull; so<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> barked like a Dog, and somtime blared like a Calf, and that she did claspe her Legs about her Neck, so round as she might have been put into a Bushel. And this Informant saith, that she was never formerly distracted or distempered.</p>
+               <p>It is credibly reported, that there are others in the Counties of <hi>Norfolk</hi> and <hi>Suffolk,</hi> in the like distractions.</p>
+               <p>It is observed, that such as be the followers of the said Qua<g ref="char:EOLhyphen"/>kers, are in their Opinions and Judgments; either Jesuiticall, forbearing and forbidding to read the Scripture, and hold it of no more esteem than Popish Tradition, or Athiesticall; denying the Trinity, the Humanity of Christ, his Ascension, the Resur<g ref="char:EOLhyphen"/>rection of the Body, and the like.</p>
+               <p>Their Lives, Conversations, and Practises are sutable to their Opinions, for most of them are (like Jesuites) industrious and solicitous to seduce others, and draw them to their opinions, and do disperse and communicate their Erronious Books to such as they find inclining to them, or weak or wavering in their judgements.</p>
+               <p>They rail on and revile the Ministers of Gods Word and all Magistrates, and will not yield or acknowledge any honour
+<pb n="8" facs="tcp:204994:5"/>or obedience to be due to them, or to any other power, save to such (as in their sence and as they conceive) are Saints and called of God.</p>
+               <p>They hold and practice that they are not to seek God for his blessing upon the Creatures which they are to receive, nor to re<g ref="char:EOLhyphen"/>turne thanks to God for the same being received.</p>
+               <p>Some of them hold and maintain, That all Prayer is to be laid aside, and not used (for God knows our wants) and to make good this errour, they abuse that scripture <hi>(The Prayers of the wicked are Abomination to the Lord)</hi> with these and the like hor<g ref="char:EOLhyphen"/>rid opinions, they have poisoned much people in the said Town, and some other Towns adjacent.</p>
+               <p>That the said Quakers do concurre in Opinion and Practice with <hi>Thomas Mantzerus,</hi>
+                  <note place="margin">1535.</note>
+                  <hi>Johannes Leydensis, David Georgius, Mi<g ref="char:EOLhyphen"/>chael Servetus</hi> and <hi>Gasper Suenkfildius</hi> (the two first proved trou<g ref="char:EOLhyphen"/>blesome to the Princes of <hi>Germany,</hi> the other to other places) may plainly appeare in severall Histories of the Church.</p>
+               <p>And that they are Inchanters as well as Seducers, is ma<g ref="char:EOLhyphen"/>nifested as well by some late Bookes, set out by <hi>John Gilpin</hi> and others, as by a Book set out in the year 1591. called <hi>Arthingtons Seduction and Repentance;</hi> who together with <hi>Ed<g ref="char:EOLhyphen"/>mund Coppinger,</hi> were so Seduced and Inchanted by <hi>William Hacket,</hi> that they proclaimed in <hi>Cheapside London; Christ Jesus</hi> (meaning the said <hi>William Hacket</hi>) was come to judge the world; <hi>Hacket</hi> was executed for Treason, whose last words were as high blasphemy, as ever was spoken by man; <hi>Coppinger</hi> died in <hi>Bridwell London; Arthington</hi> (being <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>prisoner) upon notice given to him of the death of <hi>Hacket</hi> and of his desperate end, felt himself (as he confesseth in his Book) quite dispossessed of the hot spirit, (for so he called it) and of all those his grosse errours, which he held and maintained with mad zeal: All which, with many o<g ref="char:EOLhyphen"/>ther strange passiges are set forth at large in the said Book.</p>
+               <p>Let this be accepted, not as an intire Argument against them, but as a single matter of Fact, which together with other signi<g ref="char:EOLhyphen"/>fications of their wickednesse, and Gods heavy vengeance, may undeceive the Seduced, and preserve the weak from falling from the Faith.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:204994:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
